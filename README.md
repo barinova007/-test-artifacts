@@ -1,6 +1,7 @@
 ## Software Testing Theory Artefacts Learning
 ## Checklits | Test Cases | Test Plans | Guidelines
-## [Example.](https://docs.google.com/spreadsheets/d/1YuOpm79UTRarMca3SJemUNqsV_EbuBto2jqiJwU_oJk/edit#gid=0)
+## [Example mobile](https://docs.google.com/spreadsheets/d/1YuOpm79UTRarMca3SJemUNqsV_EbuBto2jqiJwU_oJk/edit#gid=0)
+## [Example test web form](https://docs.google.com/spreadsheets/d/1hQ2HydWC6TTq-EW03Oq4e7SlM1ttk5vdEoFIT0t6sJQ/edit?usp=sharing)
 
 
 1. Чек лист проверок мобильного приложения, минимум 50 пунктов. Можете сделать отдельные чек листы для проверки конкретных мобильных приложений (Банковское приложение, игра, фитнес, фото, и т.п.)
