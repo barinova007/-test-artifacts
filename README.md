@@ -5,6 +5,7 @@
 ## [Example test security](https://www.notion.so/rmrhrcc/web-fd0c49b8644a4574a42502a7609e07f5)
 ## [Pairwise testing](https://docs.google.com/spreadsheets/d/1YzZ33UqtofIPG5CnsnrHnUxYlOzZW8xbFq9DXh7JhSI/edit#gid=0)
 
+
 1. Чек лист проверок мобильного приложения, минимум 50 пунктов. Можете сделать отдельные чек листы для проверки конкретных мобильных приложений (Банковское приложение, игра, фитнес, фото, и т.п.)
 2. Чек лист iOS App Store Review Guidelines, 15-20 кейсов - https://developer.apple.com/app-store/review/guidelines/
 3. Список обновлений iOS release notes, 15-20 кейсов - https://developer.apple.com/documentation/ios-ipados-release-notes
